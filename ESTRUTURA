@@ -1,0 +1,25 @@
+/Projeto-Saude-Analise
+│
+├── .github/
+│   └── workflows/         # (Opcional) Arquivos de workflow para CI/CD
+│
+├── data/
+│   └── insurance.csv      # Arquivo de dados brutos
+│
+├── notebooks/
+│   └── EDA_Análise.ipynb  # Notebooks Jupyter para análise exploratória
+│
+├── src/
+│   ├── preprocessamento.py # Script para pré-processamento de dados
+│   ├── modelagem.py        # Script para modelagem estatística
+│   └── avaliacao.py        # Script para avaliação do modelo
+│
+├── docs/
+│   └── relatório_final.md  # Relatório final do projeto
+│
+├── tests/
+│   └── test_modelagem.py   # Scripts de teste para o código de modelagem
+│
+├── requirements.txt        # Arquivo com as dependências do projeto
+├── .gitignore               # Arquivo para ignorar arquivos/diretórios no Git
+└── README.md               # Documentação principal do projeto
