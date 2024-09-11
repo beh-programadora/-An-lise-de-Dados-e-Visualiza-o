@@ -1,0 +1,9 @@
+Análise Exploratória de Dados
+
+Execute os notebooks em notebooks/ para explorar e visualizar os dados.
+Pré-processamento e Modelagem
+
+Use os scripts em src/ para pré-processar os dados, treinar o modelo de regressão linear e avaliar os resultados.
+Resultados
+
+Consulte os gráficos e insights gerados nos notebooks em notebooks/ e no relatório final em docs/.
