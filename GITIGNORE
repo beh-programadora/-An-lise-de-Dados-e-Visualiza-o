@@ -1,0 +1,40 @@
+# Ignorar arquivos e diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios e arquivos gerados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Ignorar arquivos Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar dados brutos
+data/
+*.csv
+
+# Ignorar arquivos de modelo treinado
+models/
+*.h5
+*.hdf5
+
+# Ignorar arquivos temporários
+*.tmp
+*.bak
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.venv/
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+*.swp
+
+# Ignorar resultados de testes
+tests/results/
