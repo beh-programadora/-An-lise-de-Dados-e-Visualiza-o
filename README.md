@@ -24,4 +24,10 @@ Este projeto tem como objetivo realizar uma análise abrangente dos dados de seg
 Instale as dependências do projeto com o seguinte comando:
 
 ```bash
+
+LICENSE MIT
+
+### 3. Arquivo `requirements.txt`
+
+
 pip install -r requirements.txt
